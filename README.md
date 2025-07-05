@@ -1,4 +1,5 @@
-🛡 Protector Anti-Ransomware Avanzado 2.0
+🛡![5134519861068803802](https://github.com/user-attachments/assets/4b261f3f-e67f-48a4-b373-93caf426c5fc)
+ Protector Anti-Ransomware Avanzado 2.0
 Protector Anti-Ransomware Avanzado 2.0 es una herramienta integral y modular desarrollada en Python que combina tecnologías de inteligencia artificial, análisis forense, detección avanzada de amenazas, sistemas honeypot, backup inteligente y monitoreo de red, todo gestionado desde una interfaz gráfica personalizable y moderna.
 
 Está diseñada como un sistema autónomo de defensa preventiva para entornos Windows, capaz de detectar, responder, respaldar y reportar comportamientos maliciosos, especialmente relacionados con ataques de ransomware y actividades sospechosas.
